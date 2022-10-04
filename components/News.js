@@ -1,9 +1,15 @@
-import React from 'react'
+import React, { useContext, useEffect } from 'react'
 import NewsItem from './NewsItem'
-import data from '../samplenews.json'
+import sdata from '../samplenews.json'
+import NewsContext from '../context/NewsContext'
+
 
 const News = () => {
-    const articles = data.articles
+    const context = useContext(NewsContext);
+    const {articles} = context;
+
+    
+    const sarticles = sdata.articles
 
     return (
             <div className="container mx-auto">
