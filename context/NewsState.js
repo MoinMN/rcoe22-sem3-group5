@@ -3,16 +3,18 @@ import NewsContext from './NewsContext'
 
 
 const NewsState = (props) => {
-    const [category, setCategory] = useState('general');
+    const [category, setCategory] = useState('General');
     const [country, setCountry] = useState('in');
-    const [lang, setLang] = useState('en');
+    const [lang, setLang] = useState('');
     const [keyword, setKeyword] = useState('');
     const [articles, setArticles] = useState([]);
     const [totalResults, setTotalResults] = useState(0);
 
     useEffect(() => {
+        console.log("I am useEffect Hook!");
         updateNews();
-    }, [category, country, lang, keyword, articles])
+        console.log(country);
+    }, [category, country])
 
     let requestbody = {
         // Newstype: 'headlines',
@@ -31,12 +33,12 @@ const NewsState = (props) => {
             body: JSON.stringify(requestbody)
         });
         let parsedData = await data.json();
-        console.log(parsedData);
         setArticles(parsedData.articles)
+        console.log(parsedData.articles);
     }
 
     return (
-        <NewsContext.Provider value={{ category, country, lang, keyword, articles, setCategory, setKeyword, updateNews }} >
+        <NewsContext.Provider value={{ category, country, lang, keyword, articles, setCategory, setKeyword, setCountry, updateNews }} >
             {props.children}
         </NewsContext.Provider>
     )

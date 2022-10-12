@@ -5,17 +5,20 @@ const handler = async (req, res) => {
     let articles
     if (req.body.Newstype == 'Everything') {
         articles = await newsapi.v2.everything({
-            q: req.body.keyword
+            q: req.body.keyword,
+            sortBy: 'popularity'
         })
     }
     else {
         articles = await newsapi.v2.topHeadlines({
             category: req.body.category,
             language: req.body.lang,
-            country: req.body.country
+            country: req.body.country,
+            sortBy: 'popularity'
         })
     }
     res.status(200).json(articles);
+    
 }
 
 

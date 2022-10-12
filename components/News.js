@@ -1,4 +1,4 @@
-import React, { useContext, useEffect } from 'react'
+import React, { useContext } from 'react'
 import NewsItem from './NewsItem'
 import sdata from '../samplenews.json'
 import NewsContext from '../context/NewsContext'
@@ -6,13 +6,14 @@ import NewsContext from '../context/NewsContext'
 
 const News = () => {
     const context = useContext(NewsContext);
-    const {articles} = context;
+    const {articles, category} = context;
 
     
     const sarticles = sdata.articles
 
     return (
             <div className="container mx-auto">
+                <h1 className='text-4xl text-center my-2 font-bold'>NewsHunter - {category}</h1>
                 <div className="grid grid-cols-3 gap-3  h-screen place-items-center">
                     {articles.map((element) => {
                         return <div className="" key={element.id}>
