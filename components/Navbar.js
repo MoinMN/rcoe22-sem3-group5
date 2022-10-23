@@ -1,6 +1,9 @@
 import React from 'react'
 import { useContext } from 'react';
 import NewsContext from '../context/NewsContext';
+// import { Button, Tooltip } from "@material-tailwind/react";
+import Link from 'next/link';
+
 
 const Navbar = () => {
     const context = useContext(NewsContext);
@@ -22,8 +25,8 @@ const Navbar = () => {
     ];
 
     return (
-        <div className='sticky top-0 z-50'>
-            <header className="text-white body-font bg-slate-600">
+        <div className='sticky  z-50'>
+            <header className="text-white body-font sticky bg-slate-600">
                 <div className="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
                     <h1 className='font-bold text-4xl '>NEWS HUNTER</h1>
                     <nav className="md:ml-auto md:mr-auto md:text-xl flex flex-wrap items-center text-base justify-center">
@@ -37,8 +40,8 @@ const Navbar = () => {
                     </nav>
 
 
-                    {/* <label for="countries" class="block mb-2 text-sm font-medium text-gray-900 dark:text-gray-400">Select an option</label> */}
-                    <select onChange={handleSelect} id="countries" class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block mx-2 w-20 p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500">
+                    {/* <label for="countries" className="block mb-2 text-sm font-medium text-gray-900 dark:text-gray-400">Select an option</label> */}
+                    <select onChange={handleSelect} id="countries" className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block mx-2 w-20 p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500">
                         {options.map(option => (
                             <option key={option.value} value={option.value}>
                                 {option.text}
@@ -47,7 +50,7 @@ const Navbar = () => {
                     </select>
 
 
-                    <form className="flex items-center" >
+                    {/* <form className="flex items-center" >
                         <label htmlFor="simple-search" className="sr-only">Search</label>
                         <div className="relative w-full">
                             <div className="flex absolute inset-y-0 left-0 items-center pl-3 pointer-events-none">
@@ -59,7 +62,11 @@ const Navbar = () => {
                             <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path></svg>
                             <span className="sr-only">Search</span>
                         </button>
-                    </form>
+                    </form> */}
+                    {/* <Button variant="filled">filled</Button> */}
+                    <Link href="/searchpage"><button type="button" className="inline-block px-6 py-3 bg-blue-600 text-white font-medium text-xs leading-tight uppercase rounded-full shadow-md hover:bg-blue-700 hover:shadow-lg focus:bg-blue-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-blue-800 active:shadow-lg transition duration-150 ease-in-out">Search News</button></Link>
+
+
 
                 </div>
             </header>

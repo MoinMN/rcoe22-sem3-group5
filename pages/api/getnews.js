@@ -1,12 +1,15 @@
 const NewsAPI = require('newsapi');
-const newsapi = new NewsAPI("9f1faac85db14824b3c7f61c0d257535");
+const newsapi = new NewsAPI("dd7786f2b41c4a159cdacdeb54d9e9ce");
 
 const handler = async (req, res) => {
     let articles
-    if (req.body.Newstype == 'Everything') {
+    if (req.body.Newstype == "everything") {
         articles = await newsapi.v2.everything({
             q: req.body.keyword,
-            sortBy: 'popularity'
+            language: 'en',
+            from: req.body.DateStart, //(req.body.DateStart === '') ? new Date(req.body.DateStart).toISOString() : '',
+            to: req.body.DateEnd, //(req.body.DateEnd === '') ? new Date(req.body.DateEnd).toISOString() : '',
+            sortBy: 'relevancy'
         })
     }
     else {
@@ -18,7 +21,8 @@ const handler = async (req, res) => {
         })
     }
     res.status(200).json(articles);
-    
+    console.log(req.body.keyword);
+
 }
 
 

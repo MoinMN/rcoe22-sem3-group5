@@ -1,266 +1,266 @@
 {
     "status": "ok",
-    "totalResults": 36,
+    "totalResults": 38,
     "articles": [
         {
             "source": {
-                "id": "associated-press",
-                "name": "Associated Press"
+                "id": null,
+                "name": "NDTV News"
             },
-            "author": "Jacques Billeaud",
-            "title": "Oath Keepers founder Stewart Rhodes' path: From Yale to jail - The Associated Press - en Español",
-            "description": "PHOENIX (AP) — Long before he assembled one of the largest far-right anti-government militia groups  in U.S.",
-            "url": "https://apnews.com/article/oath-keepers-founder-jan-6-trial-4372b311695c401255c6881111ff4f41",
-            "urlToImage": "https://storage.googleapis.com/afs-prod/media/5975bbf454df486ebf5fa456e08d92be/3000.jpeg",
-            "publishedAt": "2022-09-26T16:30:01Z",
-            "content": "PHOENIX (AP) Long before he assembled one of the largest far-right anti-government militia groups in U.S. history, before his Oath Keepers stormed the U.S. Capitol on Jan. 6, 2021, Stewart Rhodes was… [+14560 chars]"
-        },
-        {
-            "source": {
-                "id": "the-washington-post",
-                "name": "The Washington Post"
-            },
-            "author": "Mary Ilyushina",
-            "title": "Gunman attacks Russian military recruiter as thousands flee mobilization - The Washington Post",
-            "description": "A recruitment officer at a military enlistment station in Irkutsk was shot and wounded by a young man as thousands continued to flee Russia's chaotic Ukraine mobilization.",
-            "url": "https://www.washingtonpost.com/world/2022/09/26/mobilization-putin-russia-war-ukraine/",
-            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HPM24IR5REI63DDOSODL27GYEY.jpg&w=1440",
-            "publishedAt": "2022-09-26T16:19:55Z",
-            "content": "A young man shot and wounded the chief recruitment officer at a military enlistment station in Russias Irkutsk region on Monday, local authorities said, as thousands of fighting-age men continued to … [+9245 chars]"
+            "author": "NDTV Sports Desk",
+            "title": "T20 World Cup 2022, Australia vs New Zealand Highlights: Devon Conway Stars As New Zealand Thrash Holders Australia By 89 Runs In Super-12 Opener - NDTV Sports",
+            "description": "T20 World Cup 2022, Australia vs New Zealand Highlights: Chasing a 201-run target vs New Zealand in Sydney, Australia were bundled out for 111.",
+            "url": "https://sports.ndtv.com/t20-world-cup-2022/australia-vs-new-zealand-t20-world-cup-2022-super-12-group-1-aus-vs-nz-live-score-updates-3454365",
+            "urlToImage": "https://c.ndtvimg.com/2022-10/8gdv8vg8_new-zealand-cricket-team-afp_625x300_22_October_22.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=675",
+            "publishedAt": "2022-10-22T10:37:24Z",
+            "content": "T20 World Cup 2022, Australia vs New Zealand Highlights: Devon Conway starred with a 92 not out off 58 balls as New Zealand defeated Australia by 89 runs in the first game of Super-12 stage on Saturd… [+736 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "BBC News"
+                "name": "Hindustan Times"
             },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Bank will 'not hesitate' to raise interest rates after pound's fall - BBC",
-            "description": "The Bank of England will not hold an emergency meeting to set interest rates after the pound fell.",
-            "url": "https://www.bbc.com/news/business-63039687",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/135AB/production/_126657297_gettyimages-895571146.jpg",
-            "publishedAt": "2022-09-26T16:13:20Z",
-            "content": "The Bank of England and the Treasury have both sought to reassure investors after the pound fell to a record low against the US dollar.\r\nThe Bank said it would \"not hesitate\" to hike interest rates t… [+2869 chars]"
+            "author": "HT Tech",
+            "title": "Got an iPhone 14 Pro? Use it to shoot awesome Insta reels, photos this Diwali; Tips and Tricks - HT Tech",
+            "description": "iPhone 14 Pro, iPhone 14 Pro Max photography tips for capturing the best of this Diwali. Have a look.",
+            "url": "https://tech.hindustantimes.com/mobile/news/got-an-iphone-14-pro-use-it-to-capture-awesome-insta-reels-photos-this-diwali-71666433786950.html",
+            "urlToImage": "https://images.hindustantimes.com/tech/img/2022/10/22/1600x900/IMG_4716_1663335524279_1666433851328_1666433851328.jpg",
+            "publishedAt": "2022-10-22T10:21:40Z",
+            "content": "If you have just got yourself a swanky new iPhone 14 Pro or the iPhone 14 Pro Max, we have got some great tips for you to exploit its cameras to the best of its capabilities. Diwali is when we all ge… [+2671 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "The Guardian"
-            },
-            "author": "Hugo Lowell",
-            "title": "White House switchboard called phone linked to January 6 rioter after attack - The Guardian US",
-            "description": "Claim of call at 4.34pm made in book by former Republican congressman and adviser to House select committee",
-            "url": "https://amp.theguardian.com/us-news/2022/sep/26/white-house-call-january-6-rioter-denver-riggleman-book-the-breach",
-            "urlToImage": null,
-            "publishedAt": "2022-09-26T15:59:00Z",
-            "content": "BooksClaim of call at 4.34pm made in book by former Republican congressman and adviser to House select committee\r\nMon 26 Sep 2022 11.00 EDT\r\nThe White House switchboard dialled a phone associated wit… [+5324 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Giorgia Meloni: Italy's far right wins election and vows to govern for all - BBC",
-            "description": "Giorgia Meloni is set to lead a right-wing coalition as Italy's first female PM.",
-            "url": "https://www.bbc.com/news/world-europe-63029909",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/EB73/production/_126857206_giorgia_meloni_reuters.jpg",
-            "publishedAt": "2022-09-26T15:38:31Z",
-            "content": "By Paul KirbyBBC News, Rome\r\nMedia caption, Giorgia Meloni claims victory in Italy's general election\r\nFar-right leader Giorgia Meloni has claimed victory in Italy's election, and is on course to bec… [+5684 chars]"
-        },
-        {
-            "source": {
-                "id": "abc-news",
-                "name": "ABC News"
-            },
-            "author": "DANICA KIRKA and JILL LAWLESS Associated Press",
-            "title": "British pound plunges to new low as tax cuts spark concern - ABC News",
-            "description": "The British pound has fallen to an all-time low against the U.S. dollar after the government pledged a sweeping package of tax cuts that have fueled concerns about its economic policy",
-            "url": "https://abcnews.go.com/International/wireStory/british-pound-plummets-lows-us-dollar-90512061",
-            "urlToImage": "https://s.abcnews.com/images/International/WireAP_4a1a24524b354effbf77c6985f5b24f7_16x9_992.jpg",
-            "publishedAt": "2022-09-26T15:11:15Z",
-            "content": "LONDON -- The British pound fell to all-time low against the U.S. dollar early Monday after Treasury chief Kwasi Kwarteng pledged a sweeping package of tax cuts, fueling concerns about the government… [+5816 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "YouTube"
+                "name": "Insidesport.in"
             },
             "author": null,
-            "title": "Michael Irvin is VERY ANIMATED when discussing Packers' win over Bucs | First Take - ESPN",
-            "description": "On First Take, Stephen A. Smith, Dan Orlovsky and Michael Irvin talk through the Green Bay Packers’ win over the Tampa Bay Buccaneers.#ESPN #FirstTake #Steph...",
-            "url": "https://www.youtube.com/watch?v=Aisl49Jo_Jk",
-            "urlToImage": "https://i.ytimg.com/vi/Aisl49Jo_Jk/maxresdefault.jpg",
-            "publishedAt": "2022-09-26T14:46:26Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": "business-insider",
-                "name": "Business Insider"
-            },
-            "author": "Jake Epstein, John Haltiwanger",
-            "title": "US warned Russia of 'catastrophic consequences' if it uses nukes - Business Insider",
-            "description": "Biden's national security adviser said Putin has waved the \"nuclear card\" before, but the White House is taking his latest threats \"deadly seriously.\"",
-            "url": "https://www.businessinsider.com/us-russia-catastrophic-consequences-firing-nuclear-weapons-ukraine-war-2022-9",
-            "urlToImage": "https://i.insider.com/6331a1e378dab80018ed8264?width=1200&format=jpeg",
-            "publishedAt": "2022-09-26T14:28:19Z",
-            "content": "The White House told Russia that it will face \"catastrophic consequences\" if it moves to use tactical or strategic nuclear weapons in Ukraine, a top Biden administration official said, after Russian … [+3582 chars]"
+            "title": "IND PAK Weather UPDATE: Good news for India vs Pakistan match, Melbourne Weather improves, no rain since morning, Follow lIVE - InsideSport",
+            "description": "IND PAK Weather UPDATE: Good news for India vs Pakistan match, Melbourne Weather improves dramatically, no rain since morning: Follow LIVE UPDATES",
+            "url": "https://www.insidesport.in/ind-pak-weather-update-good-news-for-india-vs-pakistan-match-melbourne-weather-improves-dramatically-no-rain-since-morning-follow-live-updates/",
+            "urlToImage": "https://www.insidesport.in/wp-content/uploads/2022/10/WhatsApp-Image-2022-10-22-at-09.14.57.jpeg?w=809",
+            "publishedAt": "2022-10-22T10:18:51Z",
+            "content": "IND vs PAK Weather Update: ICC T20 World Cup 2022 Seems the weather gods in Melbourne have finally listened to cricket…IND vs PAK Weather Update: ICC T20 World Cup 2022 Seems the weather gods in Melb… [+2292 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "CNBC"
+                "name": "The Indian Express"
             },
-            "author": "Leslie Josephs",
-            "title": "Biden administration to propose new rules to increase airline fee disclosures - CNBC",
-            "description": "The proposal comes less than two months after the Transportation Department sought stricter standards for when airlines have to refund travelers for delays.",
-            "url": "https://www.cnbc.com/2022/09/26/biden-seeks-stricter-rules-requiring-more-transparency-of-airline-fees.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107083945-1656696915233-GettyImages-1241647571.jpg?v=1664201764&w=1920&h=1080",
-            "publishedAt": "2022-09-26T14:16:04Z",
-            "content": "President Joe Biden plans to announce new rules on Monday that would require airlines and online travel agencies to disclose fees for seat selection, checked baggage and other add-ons along with fare… [+1554 chars]"
+            "author": "Abhishek Angad",
+            "title": "Out with friend, 26-year-old woman allegedly gang-raped in Jharkhand - The Indian Express",
+            "description": "The police said the woman was an employee of a Bengaluru-based IT company. The accused allegedly assaulted her friend, raped her and then took away her belongings, including her phone.",
+            "url": "https://indianexpress.com/article/cities/city-others/jharkhand-techie-gangrape-chaibasa-8224499/",
+            "urlToImage": "https://images.indianexpress.com/2022/10/Indian-Express-logo-13-1.jpeg",
+            "publishedAt": "2022-10-22T09:48:41Z",
+            "content": "A 26-year-old woman, who works for a Bengaluru-based IT company, was allegedly gang-raped on Thursday evening at a secluded place in the Chaibasa area of Jharkhands West Singhbhum district, police sa… [+105 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "New York Post"
+                "name": "NDTV News"
             },
-            "author": "Jeremy Layton",
-            "title": "Aaron Rodgers: Buccaneers Jumbotron showed something it 'probably shouldn't' - New York Post ",
-            "description": "After destroying two Microsoft Surface tablets in Week 2 against the Saints, Tom Brady may need to turn his focus to a bigger piece of technology.",
-            "url": "https://nypost.com/2022/09/26/aaron-rodgers-bucs-jumbotron-showed-something-it-probably-shouldnt/",
-            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/09/newspress-collage-24004452-1664196389340.jpg?quality=75&strip=all&1664182043&w=1024",
-            "publishedAt": "2022-09-26T14:14:00Z",
-            "content": "After destroying two Microsoft Surface tablets in Week 2 against the Saints, Tom Brady may need to turn his focus to a bigger piece of technology: the Raymond James Stadium Jumbotron.\r\nBecause accord… [+1996 chars]"
-        },
-        {
-            "source": {
-                "id": "usa-today",
-                "name": "USA Today"
-            },
-            "author": "John Bacon, Jorge L. Ortiz",
-            "title": "Putin grants Russian citizenship to former US contractor Edward Snowden: Ukraine live updates - USA TODAY",
-            "description": "Former U.S. security contractor Edward Snowden, a fugitive who has been living in Russia since 2013, has been granted Russian citizenship. Updates.",
-            "url": "https://www.usatoday.com/story/news/world/2022/09/26/ukraine-russia-invasion-live-updates/8118321001/",
-            "urlToImage": "https://www.gannett-cdn.com/presto/2022/09/26/USAT/3d86681e-7cd5-4dd1-ada6-0899952bbefb-AP_Russia_Ukraine_4.jpg?crop=4000,2250,x0,y203&width=3200&height=1800&format=pjpg&auto=webp",
-            "publishedAt": "2022-09-26T14:05:04Z",
-            "content": "Former U.S. security contractor Edward Snowden, a fugitive of American authorities who has been living in Russia since 2013, was granted Russian citizenship by President Vladimir Putin on Monday at a… [+3284 chars]"
+            "author": null,
+            "title": "Couples At OYO Rooms Secretly Filmed, 4 Arrested In Noida - NDTV",
+            "description": "Four people have been arrested in Uttar Pradesh's Noida for allegedly recording intimate moments of couples by placing hidden cameras in rooms of OYO hotels.",
+            "url": "https://www.ndtv.com/cities/couples-at-oyo-rooms-secretly-filmed-4-arrested-in-noida-3454617",
+            "urlToImage": "https://c.ndtvimg.com/2022-10/aemkchj8_oyo-hotel-_625x300_22_October_22.jpg",
+            "publishedAt": "2022-10-22T09:09:00Z",
+            "content": "Preliminary probe suggests that hotel staff were not involved in the racket, the police said.\r\nNew Delhi: Four people have been arrested in Uttar Pradesh's Noida for allegedly recording intimate mome… [+1813 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "AnandTech"
+                "name": "Moneycontrol"
             },
-            "author": "Gavin Bonshor, Ryan Smith",
-            "title": "AMD Zen 4 Ryzen 9 7950X and Ryzen 5 7600X Review: Retaking The High-End - AnandTech",
+            "author": "Moneycontrol News",
+            "title": "Apple raises prices of iPad mini, iPad Air 2022 in India - Moneycontrol",
+            "description": "The iPad mini now starts at Rs 49,900, while the iPad Air 2022 is priced starting at Rs 59,900",
+            "url": "https://www.moneycontrol.com/news/technology/apple-raises-prices-of-ipad-mini-ipad-air-2022-in-india-9376401.html",
+            "urlToImage": "https://images.moneycontrol.com/static-mcnews/2021/09/iPad-Mini-6th-Generation-770x433.jpg",
+            "publishedAt": "2022-10-22T09:02:21Z",
+            "content": "Apple has raised the prices of the iPad mini 6th Gen and iPad Air 2022 in India following the recent launch of the 10th generation iPad and iPad Pro 2022.\r\nThe starting price of the iPad mini (6th Ge… [+1144 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": null,
+            "title": "Boris Johnson Asks Rishi Sunak To Stand Down \"To Save Party\": Report On UK PM Race - NDTV",
+            "description": "Boris Johnson is making a wider point to Conservative MPs, that only he can save the party from facing defeat in elections due in 2024, says report",
+            "url": "https://www.ndtv.com/world-news/in-uk-pm-race-boris-johnson-asking-rishi-sunak-to-stand-down-to-save-party-report-3453248",
+            "urlToImage": "https://c.ndtvimg.com/2022-10/kag761g8_boris-johnson-rishi-sunak_625x300_21_October_22.jpg",
+            "publishedAt": "2022-10-22T08:46:00Z",
+            "content": "Ex-PM Boris Johnson and former minister Rishi Sunak outside 10 Downing Street, UK PM's official home.\r\nRishi Sunak may be the frontrunner to become the next UK PM, but Boris Johnson is urging him to … [+2624 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "India Education Diary"
+            },
+            "author": "iednewsdesk",
+            "title": "Northwestern University: Brightest-ever gamma-ray burst breaks records - India Education Diary",
+            "description": "An international team of astronomers, including Northwestern University astrophysicists, has detected the brightest gamma-ray burst (GRB) ever recorded.Affectionately referred to as the B.O.A.T. (“brightest of all time”), the powerful explosion occur",
+            "url": "https://indiaeducationdiary.in/northwestern-university-brightest-ever-gamma-ray-burst-breaks-records/",
+            "urlToImage": "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2021/05/Northwestern-University.jpg?fit=400%2C210&ssl=1",
+            "publishedAt": "2022-10-22T08:40:40Z",
+            "content": "An international team of astronomers, including Northwestern University astrophysicists, has detected the brightest gamma-ray burst (GRB) ever recorded.\r\nAffectionately referred to as the B.O.A.T. (b… [+4017 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": null,
+            "title": "Army Flags Clear Weather, SOS In Arunachal Chopper Crash That Killed 5 - NDTV",
+            "description": "An Indian Army Aviation Advance Light Helicopter (Weapon Systems Integrated) - ALH WSI based at Likabai in Assam had crashed near Migging village on Friday morning.",
+            "url": "https://www.ndtv.com/india-news/all-5-army-personnel-dead-in-advanced-light-helicopter-crash-in-arunachal-3454413",
+            "urlToImage": "https://c.ndtvimg.com/2022-10/af48nlr_chopper-crash_625x300_22_October_22.jpg",
+            "publishedAt": "2022-10-22T08:38:00Z",
+            "content": "A court of enquiry has been set up to probe the crash.\r\nGuwahati: All Army personnel in the helicopter that crashed in Arunachal Pradesh's Upper Siang district on Friday are dead, sources confirmed a… [+2245 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "The agony and irony of Imran Khan’s disqualification - Observer Research Foundation",
             "description": null,
-            "url": "https://www.anandtech.com/show/17585/amd-zen-4-ryzen-9-7950x-and-ryzen-5-7600x-review-retaking-the-high-end",
-            "urlToImage": "https://images.anandtech.com/doci/17585/Ryzen%209%207950X%20Feature_678x452.jpg",
-            "publishedAt": "2022-09-26T14:00:00Z",
-            "content": "Back at CES 2022, AMD announced that its new Zen 4 core would be coming sometime in the second half of the year. During AMD’s ‘together we advance_PCs’ live streamed event at the end of August, AMD u… [+9507 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Anna Chernova and Radina Gigova, CNN",
-            "title": "At least 7 children among dead after gunman opens fire at school in Russia - CNN",
-            "description": "At least 11 children were killed when a gunman wearing Nazi symbols opened fire at a school in the western Russian city of Izhevsk, Russian authorities said Monday.",
-            "url": "https://www.cnn.com/2022/09/26/europe/izhevsk-school-shooting-russia-intl/index.html",
-            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220926112806-02-izhevsk-school-shooting-super-tease.jpg",
-            "publishedAt": "2022-09-26T13:34:00Z",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiW2h0dHBzOi8vd3d3Lm9yZm9ubGluZS5vcmcvZXhwZXJ0LXNwZWFrL3RoZS1hZ29ueS1hbmQtaXJvbnktb2YtaW1yYW4ta2hhbnMtZGlzcXVhbGlmaWNhdGlvbi_SAVtodHRwczovL3d3dy5vcmZvbmxpbmUub3JnL2V4cGVydC1zcGVhay90aGUtYWdvbnktYW5kLWlyb255LW9mLWltcmFuLWtoYW5zLWRpc3F1YWxpZmljYXRpb24v?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2022-10-22T08:31:36Z",
             "content": null
         },
         {
             "source": {
                 "id": null,
-                "name": "Rolling Stone"
+                "name": "Livemint"
             },
-            "author": "Alan Sepinwall",
-            "title": "The 100 Greatest TV Shows of All Time - Rolling Stone",
-            "description": "A ranking of the most game-changing, side-splitting, tear-jerking, mind-blowing, world-building, genre-busting programs in television history, from the medium’s inception in the early 20th century through the ever-metastasizing era of Peak TV",
-            "url": "https://www.rollingstone.com/tv-movies/tv-movie-lists/best-tv-shows-of-all-time-1234598313/",
-            "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2022/09/The-50-Greatest-TV-Shows_Collage_Final.gif?w=1024",
-            "publishedAt": "2022-09-26T13:03:38Z",
-            "content": "How do you identify the very best series in a medium thats been commercially available since the end of World War II? Especially when that medium has experienced more radical change in the nine years… [+1417 chars]"
-        },
-        {
-            "source": {
-                "id": "ars-technica",
-                "name": "Ars Technica"
-            },
-            "author": "Andrew Cunningham",
-            "title": "Everything you need to know about Zen 4, socket AM5, and AMD’s newest chipsets - Ars Technica",
-            "description": "Ryzen 7000 CPUs use a new platform—with plenty of changes.",
-            "url": "https://arstechnica.com/gadgets/2022/09/everything-you-need-to-know-about-zen-4-socket-am5-and-amds-newest-chipsets/",
-            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/zen4-ryzen-delid-760x380.jpeg",
-            "publishedAt": "2022-09-26T13:00:13Z",
-            "content": "7 with 7 posters participating\r\nAMD's Ryzen 7000 launch is bigger than just the processors. The processor architecture is changing, but it's also being accompanied by changes to everything from the c… [+815 chars]"
+            "author": "Asit Manohar",
+            "title": "Yes Bank Q2 results: Net profit dips on provisioning, net income grows 27.1% | Mint - Mint",
+            "description": "Yes Bank Q2 results: Private lender has raised provisioning by 54.40% in Q2FY23 on YoY basis",
+            "url": "https://www.livemint.com/companies/company-results/yes-bank-q2-results-net-profit-dips-on-provisioning-net-income-grows-27-11666421082814.html",
+            "urlToImage": "https://images.livemint.com/img/2022/10/22/600x338/yesBank_1662317040712_1666421163512_1666421163512.jpg",
+            "publishedAt": "2022-10-22T08:20:35Z",
+            "content": "Yes Bank Q2 results:  On account of rise in provisioning from 377 crore to 583 crore in second quarter of the current financial year, Yes Bank has reported 32.20 per cent dip in net profit on Year-on… [+2242 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "CNBC"
-            },
-            "author": "Melissa Repko",
-            "title": "Walmart enters the metaverse with Roblox experiences aimed at younger shoppers - CNBC",
-            "description": "Walmart is experimenting with other ways to reach shoppers, including shoppable recipes, livestreaming events and an augmented reality tool for furniture.",
-            "url": "https://www.cnbc.com/2022/09/26/walmart-enters-the-metaverse-with-roblox.html",
-            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107124033-1664131579038-Walmart_Land_Assets_1.jpg?v=1664197201&w=1920&h=1080",
-            "publishedAt": "2022-09-26T13:00:01Z",
-            "content": "Walmart is entering the metaverse with two experiences premiering Monday on online gaming platform Roblox.\r\nThe retail giant's first foray into the virtual world will feature a blimp that drops toys,… [+4222 chars]"
-        },
-        {
-            "source": {
-                "id": "cnn",
-                "name": "CNN"
-            },
-            "author": "Jessie Yeung, Jan Camenzind Broomby",
-            "title": "Typhoon Noru smashes into the Philippines, killing 5 and leaving villages in tatters - CNN",
-            "description": "People in the northern Philippines were bracing for landslides on Monday after five rescue workers were killed in the aftermath of Typhoon Noru, which made landfall on Sunday and is now heading for Vietnam.",
-            "url": "https://www.cnn.com/2022/09/26/asia/typhoon-karding-noru-philippines-deaths-intl-hnk/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220925234608-02-typhoon-noru-philippines-0925.jpg?q=w_800,c_fill",
-            "publishedAt": "2022-09-26T12:52:00Z",
-            "content": "People in the northern Philippines were bracing for landslides on Monday after five rescue workers were killed in the aftermath of Typhoon Noru, which made landfall on Sunday and is now heading for V… [+3778 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Sports Illustrated"
-            },
-            "author": "Albert Breer",
-            "title": "Dolphins coach Mike McDaniel’s leadership style, Dolphins beat Bills - Sports Illustrated",
-            "description": "Mike McDaniel knows some questioned his ability to lead an NFL locker room. After Miami gutted out another big win Sunday, it’s so far, so good.",
-            "url": "https://www.si.com/nfl/2022/09/26/how-mike-mcdaniel-dolphins-knocked-off-bills-daily-cover",
-            "urlToImage": "https://www.si.com/.image/t_share/MTkyNjA1NDEwNDU1MjAxMzE2/dcovnfldolphins_h-no-txt.jpg",
-            "publishedAt": "2022-09-26T12:39:43Z",
-            "content": "It was about a month ago, in a conference room near his office in Miami Gardens. New Dolphins coach Mike McDaniel wasn’t merely answering a question about others doubting his ability to fill his new … [+8466 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "WGAL Susquehanna Valley Pa."
+                "name": "NDTV News"
             },
             "author": null,
-            "title": "Carlisle woman one of two people killed in Wildwood, N.J., crash - WGAL Susquehanna Valley Pa.",
-            "description": "A woman from Cumberland County was one of two people killed in a crash in Wildwood, New Jersey, on Saturday night.",
-            "url": "https://www.wgal.com/article/carlisle-pennsylvania-woman-killed-in-wildwood-new-jersey-crash/41387408",
-            "urlToImage": "https://kubrick.htvapps.com/vidthumb/images/wildwood-new-jersey-fatal-crash-1664193893.jpg?crop=1xw:1xh;center,top&resize=1200:*",
-            "publishedAt": "2022-09-26T12:28:00Z",
-            "content": "WILDWOOD, N.J. —A woman from Cumberland County was one of two people killed in a crash in Wildwood, New Jersey, on Saturday night.\r\nIt happened after a car rally led to unsanctioned drag races.\r\nNew … [+786 chars]"
+            "title": "\"If You've Nothing To Do With BJP...\": Prashant Kishor Dares Nitish Kumar - NDTV",
+            "description": "Mr Kishor had on Saturday released a video saying many people are happy that Nitish Kumar is forming a big nationwide coalition against the BJP, but it's not to be trusted.",
+            "url": "https://www.ndtv.com/india-news/cant-have-both-ways-all-the-time-prashant-kishor-dares-nitish-kumar-3454640",
+            "urlToImage": "https://c.ndtvimg.com/2019-12/s6fpesqo_nitish-kumar-prashant-kishor_625x300_29_December_19.jpg",
+            "publishedAt": "2022-10-22T08:15:00Z",
+            "content": "\"Nitish Kumar has not closed his channels with the BJP,\" Mr Kishor had earlier said.\r\nPatna: In his latest potshot at Bihar Chief Minister Nitish Kumar, political strategist Prashant Kishor today cha… [+2594 chars]"
         },
         {
             "source": {
-                "id": null,
-                "name": "YouTube"
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "ET Spotlight Special",
+            "title": "Flipkart's Big Diwali Sale 2022 ends tomorrow: Deals on several phones revealed - Economic Times",
+            "description": "Flipkart's Big Diwali Sale is coming to an end tomorrow. Several phones have discounted prices upto Rs 25,000, and Flipkart will provide extra benefits to SBI card holders.",
+            "url": "https://economictimes.indiatimes.com/news/new-updates/flipkarts-big-diwali-sale-2022-ends-tomorrow-deals-on-several-phones-revealed/articleshow/95028787.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-95028920,width-1070,height-580,imgsize-491678,overlay-economictimes/photo.jpg",
+            "publishedAt": "2022-10-22T08:10:00Z",
+            "content": "Flipkart unveiled back-to-back sales in 2022. Immediately after the Big Billion Days, Flipkart started Dusshera and Diwali sales. The Flipkart Big Diwali Sale 2022 is ending soon, and this is your la… [+1480 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
             },
             "author": null,
-            "title": "LIVE: Tracking Hurricane Ian | NBC News - NBC News",
-            "description": "Watch live satellite images and a forecast tracker as Hurricane Ian travels toward Cuba and Florida's west coast.» Subscribe to NBC News: http://nbcnews.to/S...",
-            "url": "https://www.youtube.com/watch?v=JhJhHAMq6gY",
-            "urlToImage": "https://i.ytimg.com/vi/JhJhHAMq6gY/maxresdefault_live.jpg",
-            "publishedAt": "2022-09-26T12:24:37Z",
+            "title": "Apple to roll out iOS 16.1 update with Live Activities on October 24; iPadOS 16 and macOS Ventura launching alongside - The Financial Express",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMisgFodHRwczovL3d3dy5maW5hbmNpYWxleHByZXNzLmNvbS9pbmR1c3RyeS90ZWNobm9sb2d5L2FwcGxlLXRvLXJvbGwtb3V0LWlvcy0xNi0xLXVwZGF0ZS13aXRoLWxpdmUtYWN0aXZpdGllcy1vbi1vY3RvYmVyLTI0LWlwYWRvcy0xNi1hbmQtbWFjb3MtdmVudHVyYS1sYXVuY2hpbmctYWxvbmdzaWRlLzI3Mjg4NDAv0gG3AWh0dHBzOi8vd3d3LmZpbmFuY2lhbGV4cHJlc3MuY29tL2luZHVzdHJ5L3RlY2hub2xvZ3kvYXBwbGUtdG8tcm9sbC1vdXQtaW9zLTE2LTEtdXBkYXRlLXdpdGgtbGl2ZS1hY3Rpdml0aWVzLW9uLW9jdG9iZXItMjQtaXBhZG9zLTE2LWFuZC1tYWNvcy12ZW50dXJhLWxhdW5jaGluZy1hbG9uZ3NpZGUvMjcyODg0MC9saXRlLw?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2022-10-22T07:52:53Z",
             "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": null,
+            "title": "Salman Khan To Take A Brief Break From Bigg Boss 16: Report - NDTV Movies",
+            "description": "Salman Khan is reportedly not keeping well",
+            "url": "https://www.ndtv.com/entertainment/salman-khan-down-with-dengue-takes-brief-break-from-bigg-boss-reports-3454554",
+            "urlToImage": "https://c.ndtvimg.com/2022-10/k5dn5a4_salman-khan_625x300_22_October_22.jpg",
+            "publishedAt": "2022-10-22T07:47:19Z",
+            "content": "Salman Khan shared this image. (courtesy: beingsalmankhan)\r\nMumbai (Maharashtra): If reports are to be believed, superstar Salman Khan has been diagnosed with dengue. A source informed ANI that Salma… [+1483 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "HT Entertainment Desk",
+            "title": "Jaya Bachchan finally reveals why she tells media ‘aapko sharam nai aati hai' - Hindustan Times",
+            "description": "Jaya Bachchan said she is disgusted by the people who interfere in her personal life. She also said that she despises those who ‘fill their stomachs by selling those products’. | Bollywood",
+            "url": "https://www.hindustantimes.com/entertainment/bollywood/jaya-bachchan-finally-reveals-why-she-is-disgusted-by-media-tells-them-aapko-sharam-nai-aati-hai-101666422077062.html",
+            "urlToImage": "https://images.hindustantimes.com/img/2022/10/22/1600x900/jaya_bachchan_1666422469076_1666422469260_1666422469260.png",
+            "publishedAt": "2022-10-22T07:39:18Z",
+            "content": "Veteran actor Jaya Bachchan said that she feels 'very strongly' about the media stereotyping celebrities. Speaking with her granddaughter Navya Naveli Nanda on the latest episode Limelight &amp; Lemo… [+2640 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "PTI",
+            "title": "Sebi bars Bombay Dyeing, Ness Wadia, others from securities market for up to 2 yrs; imposes fines of Rs 15 - Economic Times",
+            "description": "The planned reduction of shareholding in Scal to 19 per cent to avoid consolidation of financial statements of Scal, execution of non-genuine sales to Scal through MoU's, granting deferment of payment to Scal (and not any other bulk buyer), inflation of sales…",
+            "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-bars-bombay-dyeing-ness-wadia-others-from-securities-market-for-up-to-2-yrs-imposes-fines-of-rs-15-75-cr/articleshow/95027699.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-95027752,width-1070,height-580,imgsize-27944,overlay-etmarkets/photo.jpg",
+            "publishedAt": "2022-10-22T07:18:00Z",
+            "content": "Sebi has barred 10 entities, including &amp; and its promoters Nusli N Wadia, Ness Wadia and Jehangir Wadia from the securities markets for up to two years and levied a fine totalling Rs 15.75 crore … [+3491 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "Swati Bhasin",
+            "title": "ISRO's heaviest rocket enters global commercial service market with new mission - Hindustan Times",
+            "description": "LVM3 M2/OneWeb India-1 mission: With this mission, LVM3 enters global service market.  | Latest News India",
+            "url": "https://www.hindustantimes.com/india-news/isros-heaviest-rocket-enters-global-commercial-service-market-with-new-mission-101666421534124.html",
+            "urlToImage": "https://images.hindustantimes.com/img/2022/10/22/1600x900/ISRO_misson_1666421671857_1666421682831_1666421682831.jpg",
+            "publishedAt": "2022-10-22T06:59:17Z",
+            "content": "With the countdown already having started, the ISRO (Indian Space Research Organisation) is set to launch 36 broadband communication satellites aboard Launch Vehicle Mark 3 (LVM3), the space agencys … [+1477 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WION"
+            },
+            "author": "WION Web Team",
+            "title": "US woman sues L`Oreal for selling cancer-causing products - WION",
+            "description": "The woman, Jenny Mitchell, said in the civil lawsuit that she had used the products for more than two decades, then was struck with uterine cancer that forced her to undergo a full hysterectomy",
+            "url": "https://www.wionews.com/world/us-woman-sues-loreal-for-selling-cancer-causing-products-527549",
+            "urlToImage": "https://cdn.wionews.com/sites/default/files/styles/story_page/public/2020/06/26/146811-loreal-reuters.jpg",
+            "publishedAt": "2022-10-22T06:58:40Z",
+            "content": "A few days after a study showed that chemical hair-straightening tools caused a rare type of cancer, a US woman has brought a lawsuit against L'Oreal, a French cosmetic giant for having contracted ut… [+2451 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Moneycontrol"
+            },
+            "author": "Moneycontrol News",
+            "title": "Jio launches 5G WiFi services in high footfall areas, True 5G in 2 new cities: Akash Ambani - Moneycontrol",
+            "description": "Jio Chairman Akash Ambani added that the Jio True 5G pilot beta trail has also been extended to Chennai and Nathdwara",
+            "url": "https://www.moneycontrol.com/news/business/jio-launches-5g-wifi-services-in-india-akash-ambani-9375241.html",
+            "urlToImage": "https://images.moneycontrol.com/static-mcnews/2022/09/Akash20Ambani-770x433.jpg",
+            "publishedAt": "2022-10-22T06:30:35Z",
+            "content": "Jio Chairman Akash Ambani on October 22 announced that the telecom major is launching 5G WiFi services in high footfall areas such as educational institutes, religious places, railway stations, bus s… [+5089 chars]"
         }
     ]
 }
