@@ -10,7 +10,6 @@ const Navbar = () => {
     const { category, country, setCategory, setCountry, updateNews } = context;
 
     const handleSelect = (e) => {
-        console.log(e.target.value);
         setCountry(e.target.value);
     }
 

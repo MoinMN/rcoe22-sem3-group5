@@ -7,8 +7,8 @@ const handler = async (req, res) => {
         articles = await newsapi.v2.everything({
             q: req.body.keyword,
             language: 'en',
-            from: req.body.DateStart, //(req.body.DateStart === '') ? new Date(req.body.DateStart).toISOString() : '',
-            to: req.body.DateEnd, //(req.body.DateEnd === '') ? new Date(req.body.DateEnd).toISOString() : '',
+            from: req.body.from, //(req.body.DateStart === '') ? new Date(req.body.DateStart).toISOString() : '',
+            to: req.body.to, //(req.body.DateEnd === '') ? new Date(req.body.DateEnd).toISOString() : '',
             sortBy: 'relevancy'
         })
     }
@@ -17,12 +17,11 @@ const handler = async (req, res) => {
             category: req.body.category,
             language: req.body.lang,
             country: req.body.country,
+            pageSize: 100,
             sortBy: 'popularity'
         })
     }
     res.status(200).json(articles);
-    console.log(req.body.keyword);
-
 }
 
 

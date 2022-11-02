@@ -90,7 +90,7 @@ const Carousel = () => {
                     <button
                         onClick={moveNext}
                         className="hover:bg-blue-900/75 text-white w-10 h-full text-center opacity-75 hover:opacity-100 disabled:opacity-25 disabled:cursor-not-allowed z-10 p-0 m-0 transition-all ease-in-out duration-300"
-                        disabled={isDisabled('next')}
+                        // disabled={isDisabled('next')}
                     >
                         <svg
                             xmlns="http://www.w3.org/2000/svg"

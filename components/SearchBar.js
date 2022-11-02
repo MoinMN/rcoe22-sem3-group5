@@ -16,7 +16,6 @@ const SearchBar = () => {
         }
         else if (e.target.name == 'DateStart') {
             setDateStart(e.target.value)
-            console.log(typeof(DateStart))
         }
         else if (e.target.name == 'DateEnd') {
             setDateEnd(e.target.value)
@@ -26,7 +25,7 @@ const SearchBar = () => {
     return (
         <header className='text-white body-font sticky top-0 z-50 bg-slate-600'>
             <div className="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center justify-between">
-                <Link href="/"><a><h1 className='font-bold text-4xl '>NEWS HUNTER</h1></a></Link>
+                <Link href="/"><a><h1 className='font-bold hover:text-slate-800 text-4xl '>NEWS HUNTER</h1></a></Link>
 
                 <div className="flex ">
                     <div className=" xl:w-96">
@@ -42,7 +41,7 @@ const SearchBar = () => {
                 </div>
 
 
-                <div date-rangepicker className="flex items-center">
+                <div className="flex items-center">
                     <div className="relative">
                         <div className="flex absolute inset-y-0 left-0 items-center pl-3 pointer-events-none">
                             <svg aria-hidden="true" className="w-5 h-5 text-gray-500 dark:text-gray-400" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fillRule="evenodd" d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zm0 5a1 1 0 000 2h8a1 1 0 100-2H6z" clipRule="evenodd"></path></svg>

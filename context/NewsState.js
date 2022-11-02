@@ -23,10 +23,7 @@ const NewsState = (props) => {
 
     const trendingNews = async () => {
         let requestbody = {
-            // Newstype: 'headlines',
-            // category: category,
             country: country,
-            // lang: lang,
             pageSize: 10
         }
         let data = await fetch(`http://localhost:3000/api/getnews`, {
