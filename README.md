@@ -10,6 +10,10 @@
 ### Project Guides
 1. PROF. MOHAMMED JUNED   [ Primary Guide ] 
 
+### Materials
+1. [Report PDF](https://github.com/MoinMN/rcoe22-sem3-group5/files/9962765/Online.News.Website.docx)
+2. [Publish Paper](https://github.com/MoinMN/rcoe22-sem3-group5/files/9962772/Online.News.Website.Publish.Paper.docx)
+
 ### Deployment Steps
 Please follow the below steps to run this project.
 1. run the command 'yarn' in the terminal to add dependencies of the project
