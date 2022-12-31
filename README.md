@@ -16,8 +16,8 @@
 
 ### Deployment Steps
 Please follow the below steps to run this project.
-1. run the command 'yarn' in the terminal to add dependencies of the project
-2. run the command 'yarn dev' in the terminal to start the server in localhost
+1. run the command `yarn` in the terminal to add dependencies of the project
+2. run the command `yarn dev` in the terminal to start the server in localhost
 3. click on the link of server provided in the terminal
 
 ### Subject Details
